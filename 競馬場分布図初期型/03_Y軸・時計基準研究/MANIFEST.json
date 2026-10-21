@@ -1,0 +1,27 @@
+{
+  "research_id": "03_Y軸",
+  "research_name": "Y軸・時計基準研究",
+  "parent_research": "競馬場分布図初期型",
+  "status": "暫定採用",
+  "scope": "Y軸のみ。X軸関連資料は更新しない。",
+  "drive_path": "/content/drive/MyDrive/keiba_data/競馬場分布図研究/競馬場分布図初期型/03_Y軸・時計基準研究",
+  "github_path": "競馬場分布図初期型/03_Y軸・時計基準研究",
+  "files": {
+    "README.md": {
+      "sha256": "e65633120a5f89ea6b133e58b5df34f6aaf265daab7e69f83e609ab38f3179c2",
+      "bytes": 5637
+    },
+    "次チャット用_要約.md": {
+      "sha256": "bea7450288bc62a56a5c7cb04cfc3c6bb9a7c204535e14b6ebfe1658b6dd9d86",
+      "bytes": 1378
+    },
+    "Y軸_暫定仕様.csv": {
+      "sha256": "e64c997b88b1ebd874f174a7a0bcf9e5cbc7155a8073d0dd59cce0118aad3fef",
+      "bytes": 813
+    },
+    "保存・同期について.md": {
+      "sha256": "75f328830457ec001062258c078c81f250740a1f68923ee787d597e0b32f6137",
+      "bytes": 1171
+    }
+  }
+}
