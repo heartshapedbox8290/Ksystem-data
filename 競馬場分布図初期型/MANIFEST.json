@@ -1,0 +1,27 @@
+{
+  "title": "競馬場分布図初期型",
+  "as_of": "2026-10-21",
+  "github": "heartshapedbox8290/Ksystem-data",
+  "files": [
+    {
+      "name": "次チャット用_要約.md",
+      "bytes": 1400,
+      "sha256": "36756bff3bf866d993d19111983f6c6dea725ac1e2c31121d5600aeb62c21129"
+    },
+    {
+      "name": "芝距離補正_暫定採用値.csv",
+      "bytes": 352,
+      "sha256": "25d4505e66b643078c438e347ea7e26ee822227d414aea1b352c1f375788bbad"
+    },
+    {
+      "name": "保存・同期について.md",
+      "bytes": 823,
+      "sha256": "b5a0d3b744781bc04420de0d54e2db3d770dd108e986a1c5d5e8ae92d9615e82"
+    },
+    {
+      "name": "README.md",
+      "bytes": 9400,
+      "sha256": "04e95766b062275774b48987f33f0e2086f84cb148863b26b1dcafd08783e9eb"
+    }
+  ]
+}
